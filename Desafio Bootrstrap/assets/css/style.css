@@ -1,0 +1,20 @@
+body * {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Section-C {
+    padding: 80px;
+    margin: 50%;
+    background-color: green;
+    padding: 40px;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
